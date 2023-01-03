@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "typescript.format.insertSpaceAfterCommaDelimiter": false,
+    "typescript.format.enable": true
+}
